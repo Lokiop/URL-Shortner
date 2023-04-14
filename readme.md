@@ -21,3 +21,10 @@
         uuid
     </li>
 </ul>
+
+<h3>Tested Working via:</h3>
+<ul>
+    <li>Postman</li>
+    <li>ThunderClient(VsCode Extension)</li>
+</ul>
+
